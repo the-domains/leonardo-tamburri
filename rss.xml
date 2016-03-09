@@ -4,21 +4,21 @@
         <description><![CDATA[Hi i'm Leo]]></description>
         <link>https://thegrid.ai/leonardo-tamburri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 07:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 07:15:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/leonardo-tamburri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cda79dc1-c611-4f57-9c46-2b8f42326b69.jpg">]]></description>
+            <link>https://thegrid.ai/leonardo-tamburri/i-want-to-feed-meaning-until-it-is-full/index.html</link>
+            <guid isPermaLink="false">cd272b3c-e618-4acc-992e-39045205c35c</guid>
+            <pubDate>Wed, 09 Mar 2016 07:14:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Work]]></title>
             <description><![CDATA[<article><h1>My Work</h1><p>TEST TEST</p></article>]]></description>
             <link>https://thegrid.ai/leonardo-tamburri/my-work/index.html</link>
             <guid isPermaLink="false">fe8deeb4-c976-4475-a093-938300f5c2af</guid>
             <pubDate>Wed, 09 Mar 2016 07:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"I want to feed meaning until it is full."</p>]]></description>
-            <link>https://thegrid.ai/leonardo-tamburri/i-want-to-feed-meaning-until-it-is-full/index.html</link>
-            <guid isPermaLink="false">cd272b3c-e618-4acc-992e-39045205c35c</guid>
-            <pubDate>Wed, 09 Mar 2016 05:10:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

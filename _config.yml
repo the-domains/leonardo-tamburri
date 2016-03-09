@@ -1,6 +1,6 @@
 name: Leonardo Tamburri
 favicon: null
-layout_spectrum: 0.26885
+layout_spectrum: 0.58163
 typography_spectrum: 0.37785
 title: "Hi i'm Leo"
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#393c49'
     - '#5d616a'
-  brandStrength: 0.25
+  brandStrength: 0
   lightness: 1
   saturation: 0.1875
   rhythmicContrast: 0.75

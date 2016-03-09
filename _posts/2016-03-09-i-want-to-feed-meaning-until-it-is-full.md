@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: '"I want to feed meaning until it is full."'
-datePublished: '2016-03-09T05:10:33.608Z'
-dateModified: '2016-03-09T05:10:17.653Z'
+datePublished: '2016-03-09T07:14:53.992Z'
+dateModified: '2016-03-09T07:14:09.268Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-09-i-want-to-feed-meaning-until-it-is-full.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-i-want-to-feed-meaning-until-it-is-full.md
-published: true
 url: i-want-to-feed-meaning-until-it-is-full/index.html
 _type: Article
 
@@ -26,7 +26,8 @@ _type: Article
 
 "I want to feed meaning until it is full."
 
-I am currently the Art Director and Creative Manager of the G Adventures' Brand Department, leading a team of talented creative professionals.
+I am currently the Art Director and Creative Manager of the   
+G Adventures' Brand Department, leading a team of talented creative professionals.
 
 I joined the very small in-house marketing department back in 2006 as a freelance designer focussed on helping out with the company's brochure production. Having joined the company at a critical time in its existence, I made the most of the opportunity and helped transform the way a great travel company handles its creative work. I gained a wealth of experience when I helped to build the creative team of three into an in-house agency of 24\.
 

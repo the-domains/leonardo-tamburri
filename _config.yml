@@ -1,20 +1,4 @@
-name: Leonardo Tamburri
-favicon: null
-layout_spectrum: 0.74889
 typography_spectrum: 0.37785
-title: "Hi i'm Leo"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0d1011'
@@ -26,4 +10,21 @@ color:
   lightness: 1
   saturation: 0.5625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74889
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Leonardo Tamburri
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Hi i'm Leo
+description: Creative Director
 purpose: []
